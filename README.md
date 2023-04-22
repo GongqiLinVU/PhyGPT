@@ -1,6 +1,6 @@
-# PhyGPT
+# PsyGPT
 
-**Build casual knowledge graph using chatGPT in the Physiology area.**
+**Build casual knowledge graph using chatGPT in the Psychology area.**
 
 ## RoadMap
 
